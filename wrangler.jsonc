@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "sites-project",
+  "name": "focus-countzero",
   "compatibility_date": "2026-09-01",
   "compatibility_flags": [
     "nodejs_compat"
